@@ -1,9 +1,1 @@
-<!DOCTYPE html>
-<html>
-<body>
-
-<h2>Spectacular Mountains</h2>
-<img src="https://raw.githubusercontent.com/lostdecade/simple_canvas_game/256d456f6dd5ceb6d1825a9fcdea0e046fd47857/images/background.png">
-
-</body>
-</html>
+<img scr=https://raw.githubusercontent.com/lostdecade/simple_canvas_game/256d456f6dd5ceb6d1825a9fcdea0e046fd47857/images/background.png>
