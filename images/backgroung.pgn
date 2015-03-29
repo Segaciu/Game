@@ -1,1 +1,6 @@
-<img scr=https://raw.githubusercontent.com/lostdecade/simple_canvas_game/256d456f6dd5ceb6d1825a9fcdea0e046fd47857/images/background.png>
+<script>
+var img = new Image();
+img.src = "Image.jpg"
+img.onload = function(){
+console.log("Your image has loaded.")
+}
