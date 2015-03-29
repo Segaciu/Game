@@ -1,5 +1,1 @@
-var img = new Image();
-img.src = "background (1).bmp"
-img.onload = function(){
-console.log("Your image has loaded.")
-}
+
