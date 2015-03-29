@@ -1,6 +1,1 @@
-<script>
-var img = new Image();
-img.src = "Image.jpg"
-img.onload = function(){
-console.log("Your image has loaded.")
-}
+
